@@ -1,6 +1,6 @@
 # [Algorytmy i struktury danych]
 
-This repository contains code and materials developed for the **[Algorytmy i struktury danych]** taken at **[Uniwersytet Gdański]**. The project focuses on [brief overview of the topic, e.g., "implementing and analyzing data structures and algorithms"].
+This repository contains code and materials developed for the **[Algorytmy i struktury danych]** taken at **[Uniwersytet Gdański]**. The project focuses on [brief overview of the topic, "implementing and analyzing data structures and algorithms"].
 
 ## Table of Contents
 
