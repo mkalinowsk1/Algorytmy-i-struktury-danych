@@ -21,4 +21,4 @@ This project explores the implementation of [specific algorithms or concepts] as
 
 ## Technologies Used
 
-- [Programming language(s), "Python"]
+- [Programming language(s), "Python", "GoLang"]
